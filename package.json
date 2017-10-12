@@ -1,18 +1,9 @@
 {
-    "name": "MEAN-exam",
-    "version": "1.0.0",
-    "keywords": [
-        "util",
-        "functional",
-        "server",
-        "client",
-        "browser"
-    ],
-    "author": "S528737",
-    "contributors": [],
-    "dependencies": {
-        "body-parser": "^1.18.2",
-        "express": "^4.16.2",
-        "mongodb": "^2.2.31"
-    }
+  "name": "MEANStack",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4",
+    "mongodb":">=0.9.6-7"
+  }
 }
